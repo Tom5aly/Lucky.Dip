@@ -8,7 +8,7 @@ $(document).ready(function() {
 });
 
 function my0() {
-  let luckyNum = Math.ceil(Math.random() * 49);
+  let luckyNum = Math.ceil(Math.random() * 11);
   document.getElementById("div0").innerHTML = luckyNum;
 }
 
@@ -26,7 +26,7 @@ $(document).ready(function() {
 });
 
 function my1() {
-  let luckyNum1 = Math.ceil(Math.random() * 20);
+  let luckyNum1 = Math.ceil(Math.random() * 23);
   document.getElementById("div1").innerHTML = luckyNum1;
 }
 
@@ -43,7 +43,7 @@ $(document).ready(function() {
 });
 
 function my2() {
-  let luckyNum = Math.ceil(Math.random() * 30);
+  let luckyNum = Math.ceil(Math.random() * 38);
   document.getElementById("div2").innerHTML = luckyNum;
 }
 
@@ -77,7 +77,7 @@ $(document).ready(function() {
 });
 
 function my4() {
-  let luckyNum = Math.ceil(Math.random() * 45);
+  let luckyNum = Math.ceil(Math.random() * 19);
   document.getElementById("div4").innerHTML = luckyNum;
 }
 
@@ -94,6 +94,6 @@ $(document).ready(function() {
 });
 
 function my5() {
-  let luckyNum = Math.ceil(Math.random() * 28);
+  let luckyNum = Math.ceil(Math.random() * 49);
   document.getElementById("div5").innerHTML = luckyNum;
 }
