@@ -1,0 +1,14 @@
+small {
+  font-size: 50px;
+  position: relative;
+}
+#all {
+  margin: auto;
+}
+#list {
+  padding-top: 2.5rem;
+}
+img {
+  position: fixed;
+  background-repeat: no-repeat;
+}
